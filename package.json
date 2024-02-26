@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@binance-chain/javascript-sdk": "^4.2.0",
+    "@maticnetwork/maticjs": "^3.2.5",
+    "@solana/web3.js": "^1.41.3",
+    "axios": "^0.27.2",
+    "bip39": "^3.0.4",
+    "ethereumjs-common": "^1.5.2",
+    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.6.4",
+    "ripple-lib": "^1.10.0",
+    "tronweb": "^4.1.0",
+    "web3": "^1.7.3",
+    "xrpl": "^2.2.1"
+  }
+}
